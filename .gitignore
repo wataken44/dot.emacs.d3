@@ -1,0 +1,16 @@
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+url/
+
+# Org-mode
+.org-id-locations
+*_archive
+
+ac-comphist.dat
+recentf
